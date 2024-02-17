@@ -7,5 +7,5 @@ Emulator-Rejoin is a simple Python script designed to automate the rejoining pro
 1. Run the script:
 
 ```bash
-./Emulator-Rejoin
+./main.exe
 ```
